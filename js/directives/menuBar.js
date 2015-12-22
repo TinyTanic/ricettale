@@ -1,8 +1,7 @@
 ricettale.directive('menuBar', function() {
    return {
       restrict: 'E',
-      scope: {
-      },
+      scope: {},
       templateUrl: 'components/menuBar.html'
    };
 });

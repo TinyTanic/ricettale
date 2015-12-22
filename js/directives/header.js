@@ -1,8 +1,7 @@
 ricettale.directive('header', function() {
    return {
       restrict: 'E',
-      scope: {
-      },
+      scope: {},
       templateUrl: 'components/header.html'
    };
 });

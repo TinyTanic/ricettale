@@ -1,6 +1,4 @@
-ricettale.controller('sectionsController', ['$scope', function ($scope) {
-
-   $scope.nome = 'nomebellissimo';
+ricettale.controller('sectionsController', ['$scope', function($scope) {
 
    $scope.sections = [{
       name: 'antipasti'
